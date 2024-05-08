@@ -1,5 +1,0 @@
-com\appointments\appointments\AppointmentsApplication.class
-com\appointments\appointments\model\Appointment.class
-com\appointments\appointments\repository\AppointmentRepository.class
-com\appointments\appointments\services\AppointmentService.class
-com\appointments\appointments\controllers\appointmentController.class
