@@ -1,0 +1,11 @@
+com\user_services\user_services\repository\UserRepository.class
+com\user_services\user_services\service\CustomUserDetailsService.class
+com\user_services\user_services\UserServicesApplication.class
+com\user_services\user_services\model\Role.class
+com\user_services\user_services\dto\LoginDto.class
+com\user_services\user_services\dto\SignUpDto.class
+com\user_services\user_services\Config\LogginAspect.class
+com\user_services\user_services\model\User.class
+com\user_services\user_services\repository\RoleRepository.class
+com\user_services\user_services\Config\SecurityConfig.class
+com\user_services\user_services\controllers\AuthController.class
